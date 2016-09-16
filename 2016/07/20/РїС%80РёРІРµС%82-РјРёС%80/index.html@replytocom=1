@@ -1,0 +1,379 @@
+<!DOCTYPE html>
+<html lang="ru-RU">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no">
+	<title>Привет, мир! &#8212; wpmoney.kek</title>
+<link rel="alternate" type="application/rss+xml" title="wpmoney.kek &raquo; Лента" href="http://wpmoney.kek/feed/" />
+<link rel="alternate" type="application/rss+xml" title="wpmoney.kek &raquo; Лента комментариев" href="http://wpmoney.kek/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="wpmoney.kek &raquo; Лента комментариев к &laquo;Привет, мир!&raquo;" href="http://wpmoney.kek/2016/07/20/%d0%bf%d1%80%d0%b8%d0%b2%d0%b5%d1%82-%d0%bc%d0%b8%d1%80/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/wpmoney.kek\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.5.3"}};
+			!function(a,b,c){function d(a){var c,d,e,f=b.createElement("canvas"),g=f.getContext&&f.getContext("2d"),h=String.fromCharCode;if(!g||!g.fillText)return!1;switch(g.textBaseline="top",g.font="600 32px Arial",a){case"flag":return g.fillText(h(55356,56806,55356,56826),0,0),f.toDataURL().length>3e3;case"diversity":return g.fillText(h(55356,57221),0,0),c=g.getImageData(16,16,1,1).data,d=c[0]+","+c[1]+","+c[2]+","+c[3],g.fillText(h(55356,57221,55356,57343),0,0),c=g.getImageData(16,16,1,1).data,e=c[0]+","+c[1]+","+c[2]+","+c[3],d!==e;case"simple":return g.fillText(h(55357,56835),0,0),0!==g.getImageData(16,16,1,1).data[0];case"unicode8":return g.fillText(h(55356,57135),0,0),0!==g.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+			<style>
+			#wp-admin-bar-layers-edit-layout .ab-icon:before{
+				font-family: "layers-interface" !important;
+				content: "\e62f" !important;
+				font-size: 16px !important;
+			}
+			</style>
+		<link rel='stylesheet' id='contact-form-7-css'  href='http://wpmoney.kek/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='layers-framework-css'  href='http://wpmoney.kek/wp-content/themes/layerswp/assets/css/framework.css?ver=1.5.5' type='text/css' media='all' />
+<link rel='stylesheet' id='layers-components-css'  href='http://wpmoney.kek/wp-content/themes/layerswp/assets/css/components.css?ver=1.5.5' type='text/css' media='all' />
+<link rel='stylesheet' id='layers-responsive-css'  href='http://wpmoney.kek/wp-content/themes/layerswp/assets/css/responsive.css?ver=1.5.5' type='text/css' media='all' />
+<link rel='stylesheet' id='layers-icon-fonts-css'  href='http://wpmoney.kek/wp-content/themes/layerswp/assets/css/layers-icons.css?ver=1.5.5' type='text/css' media='all' />
+<link rel='stylesheet' id='layers-style-css'  href='http://wpmoney.kek/wp-content/themes/layerswp/style.css?ver=1.5.5' type='text/css' media='all' />
+<script type='text/javascript' src='http://wpmoney.kek/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://wpmoney.kek/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='http://wpmoney.kek/wp-content/themes/layerswp/assets/js/plugins.js?ver=1.5.5'></script>
+<link rel='https://api.w.org/' href='http://wpmoney.kek/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://wpmoney.kek/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://wpmoney.kek/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.5.3" />
+<link rel="canonical" href="http://wpmoney.kek/2016/07/20/%d0%bf%d1%80%d0%b8%d0%b2%d0%b5%d1%82-%d0%bc%d0%b8%d1%80/" />
+<link rel='shortlink' href='http://wpmoney.kek/?p=1' />
+<meta name='robots' content='noindex,follow' />
+<link rel="alternate" type="application/json+oembed" href="http://wpmoney.kek/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwpmoney.kek%2F2016%2F07%2F20%2F%25d0%25bf%25d1%2580%25d0%25b8%25d0%25b2%25d0%25b5%25d1%2582-%25d0%25bc%25d0%25b8%25d1%2580%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://wpmoney.kek/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwpmoney.kek%2F2016%2F07%2F20%2F%25d0%25bf%25d1%2580%25d0%25b8%25d0%25b2%25d0%25b5%25d1%2582-%25d0%25bc%25d0%25b8%25d1%2580%2F&#038;format=xml" />
+<script>jQuery(function($) { 
+ 
+$('a[href^="#"]').live('click',function(event){
+    event.preventDefault();
+    var target_offset = $(this.hash).offset() ? $(this.hash).offset().top : 0;
+    //change this number to create the additional off set        
+    var customoffset = 85;
+    $('html, body').animate({scrollTop:target_offset - customoffset}, 500);
+});
+ 
+}(jQuery));</script><style type="text/css" id="layers-inline-styles-header">
+ .header-site, .header-site.header-sticky { background-color: rgba(0, 158, 236, 1); } 
+ .title-container { background-color: #009eec; } 
+  input[type="button"],    input[type="submit"],    button,    .button,    .form-submit input[type="submit"],    .invert input[type="button"],    .invert input[type="submit"],    .invert button,    .invert .button,    .invert .form-submit input[type="submit"]{ background-color: #006cba; color: #FFFFFF; } 
+  input[type="button"]:hover,    input[type="submit"]:hover,    button:hover,    .button:hover,    .form-submit input[type="submit"]:hover,    .invert input[type="button"]:hover,    .invert input[type="submit"]:hover,    .invert button:hover,    .invert .button:hover,    .invert .form-submit input[type="submit"]:hover{ background-color: #4d98cf; color: #FFFFFF; } 
+.copy a:not(.button),  .story a:not(.button){ color: #006cba;border-bottom-color: #006cba;} 
+.copy a:not(.button):hover,  .story a:not(.button):hover{ color: #4d98cf;border-bottom-color: #4d98cf;} 
+ .footer-site { background-color: #2b2b2b; } </style>					<meta property="og:title" content="Привет, мир!" />
+			<meta property="og:type" content="website" />
+			<meta property="og:url" content="http://wpmoney.kek/2016/07/20/%d0%bf%d1%80%d0%b8%d0%b2%d0%b5%d1%82-%d0%bc%d0%b8%d1%80/" />
+							<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+		</head>
+<body class="single single-post postid-1 single-format-standard layers-header-sticky layers-header-overlay layers-post-page">
+	<div class="wrapper invert off-canvas-right" id="off-canvas-right">
+    <a class="close-canvas" data-toggle="#off-canvas-right" data-toggle-class="open">
+        <i class="l-close"></i>
+        Close    </a>
+
+    <div class="content nav-mobile clearfix">
+        <nav class="nav nav-vertical"><ul id="menu-home" class="menu"><li id="menu-item-143" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-143"><a href="#layers-widget-slide-3-128">Home</a></li>
+<li id="menu-item-145" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-145"><a href="#layers-widget-column-3">Portfolio</a></li>
+<li id="menu-item-123" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-123"><a href="#text-9">Buy</a></li>
+<li id="menu-item-29" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-29"><a href="#layers-widget-map-5">About us</a></li>
+</ul></nav>    </div>
+    <aside id="search-2" class="content widget widget_search"><form role="search" method="get" class="search-form" action="http://wpmoney.kek/">
+				<label>
+					<span class="screen-reader-text">Найти:</span>
+					<input type="search" class="search-field" placeholder="Поиск&hellip;" value="" name="s" />
+				</label>
+				<input type="submit" class="search-submit" value="Поиск" />
+			</form></aside>		<aside id="recent-posts-2" class="content widget widget_recent_entries">		<h5 class="section-nav-title">Свежие записи</h5>		<ul>
+					<li>
+				<a href="http://wpmoney.kek/2016/07/20/%d0%bf%d1%80%d0%b8%d0%b2%d0%b5%d1%82-%d0%bc%d0%b8%d1%80/">Привет, мир!</a>
+						</li>
+				</ul>
+		</aside>		<aside id="recent-comments-2" class="content widget widget_recent_comments"><h5 class="section-nav-title">Свежие комментарии</h5><ul id="recentcomments"><li class="recentcomments"><span class="comment-author-link"><a href='https://wordpress.org/' rel='external nofollow' class='url'>Мистер WordPress</a></span> к записи <a href="http://wpmoney.kek/2016/07/20/%d0%bf%d1%80%d0%b8%d0%b2%d0%b5%d1%82-%d0%bc%d0%b8%d1%80/#comment-1">Привет, мир!</a></li></ul></aside><aside id="archives-2" class="content widget widget_archive"><h5 class="section-nav-title">Архивы</h5>		<ul>
+			<li><a href='http://wpmoney.kek/2016/07/'>Июль 2016</a></li>
+		</ul>
+		</aside><aside id="categories-2" class="content widget widget_categories"><h5 class="section-nav-title">Рубрики</h5>		<ul>
+	<li class="cat-item cat-item-1"><a href="http://wpmoney.kek/category/%d0%b1%d0%b5%d0%b7-%d1%80%d1%83%d0%b1%d1%80%d0%b8%d0%ba%d0%b8/" >Без рубрики</a>
+</li>
+		</ul>
+</aside><aside id="meta-2" class="content widget widget_meta"><h5 class="section-nav-title">Мета</h5>			<ul>
+						<li><a href="http://wpmoney.kek/wp-login.php">Войти</a></li>
+			<li><a href="http://wpmoney.kek/feed/"><abbr title="Really Simple Syndication">RSS</abbr> записей</a></li>
+			<li><a href="http://wpmoney.kek/comments/feed/"><abbr title="Really Simple Syndication">RSS</abbr> комментариев</a></li>
+			<li><a href="https://ru.wordpress.org/" title="Сайт работает на WordPress &#8212; современной персональной платформе для публикаций.">WordPress.org</a></li>			</ul>
+			</aside></div>		<div class="wrapper-site">
+
+		
+		
+		<section class="header-site header-sticky header-overlay header-left invert" >
+						<div class="container header-block">
+				<div class="logo">
+	
+			<div class="site-description">
+						<h3 class="sitename sitetitle"><a href="http://wpmoney.kek">wpmoney.kek</a></h3>
+			<p class="tagline"></p>
+					</div>
+	</div>
+
+<nav class="nav nav-horizontal">
+    
+    <ul id="menu-home-1" class="menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-143"><a href="#layers-widget-slide-3-128">Home</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-145"><a href="#layers-widget-column-3">Portfolio</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-123"><a href="#text-9">Buy</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-29"><a href="#layers-widget-map-5">About us</a></li>
+</ul>
+    
+    <a href="" class="responsive-nav"  data-toggle="#off-canvas-right" data-toggle-class="open">
+	<span class="l-menu"></span>
+</a>
+</nav>			</div>
+					</section>
+
+		
+		<section id="wrapper-content" class="wrapper-content">
+<div class="content-main clearfix post-1 post type-post status-publish format-standard hentry category-1 container">
+		<div class="grid">
+		
+		
+							<article id="post-1" class="column span-8">
+							<header class="section-title large">
+									<h5 class="meta-info"><p><span class="meta-item meta-date"><i class="l-clock-o"></i> 20.07.2016</span></p></h5>										<h1 class="heading">Привет, мир!</h1>
+			</header>
+			
+			<div class="story">
+	
+	<p>Добро пожаловать в WordPress. Это ваша первая запись. Отредактируйте или удалите её, затем пишите!</p>
+
+	
+			</div>
+	
+	<footer class="meta-info"><p><span class="meta-item meta-date"><i class="l-clock-o"></i> 20.07.2016</span> <span class="meta-item meta-author"><i class="l-user"></i> <a href="http://wpmoney.kek/author/admin/" title="Просмотреть все сообщения по admin" rel="author">admin</a></span> <span class="meta-item meta-category"><i class="l-folder-open-o"></i>  <a href="http://wpmoney.kek/category/%d0%b1%d0%b5%d0%b7-%d1%80%d1%83%d0%b1%d1%80%d0%b8%d0%ba%d0%b8/" title="View all posts in Без рубрики">Без рубрики</a></span></p></footer><div id="comments" class="push-top-large">
+			<div class="section-title small">
+			<h3 class="heading comment-title">
+				One Comment on &ldquo;<span>Привет, мир!</span>&rdquo;			</h3>
+		</div>
+
+		<div class="comment-list clearfix">
+							<div class="comment even thread-even depth-1 content well" id="comment-1">
+			<div class="avatar push-bottom clearfix">
+								<a class="avatar-image" href="">
+					<img alt='' src='http://2.gravatar.com/avatar/?s=70&#038;d=mm&#038;r=g' srcset='http://2.gravatar.com/avatar/?s=140&amp;d=mm&amp;r=g 2x' class='avatar avatar-70 photo avatar-default' height='70' width='70' />				</a>
+				<div class="avatar-body">
+					<h5 class="avatar-name"><a href='https://wordpress.org/' rel='external nofollow' class='url'>Мистер WordPress</a></h5>
+					<small>20.07.2016 в 20:40</small>
+				</div>
+			</div>
+
+			<div class="copy small">
+								<p>Привет! Это комментарий.<br />
+Чтобы удалить его, авторизуйтесь и просмотрите комментарии к записи. Там будут ссылки для их изменения или удаления.</p>
+				<a rel='nofollow' class='comment-reply-link' href='http://wpmoney.kek/2016/07/20/%d0%bf%d1%80%d0%b8%d0%b2%d0%b5%d1%82-%d0%bc%d0%b8%d1%80/?replytocom=1#respond' onclick='return addComment.moveForm( "comment-1", "1", "respond", "1" )' aria-label='Комментарий к записи Мистер WordPress'>Ответить</a>			</div>
+		
+			</div><!-- #comment-## -->
+		</div><!-- .commentlist -->
+
+			
+					<div id="respond" class="comment-respond">
+			<h3 id="reply-title" class="comment-reply-title">Добавить комментарий для <a href="#comment-1">Мистер WordPress</a> <small><a rel="nofollow" id="cancel-comment-reply-link" href="/2016/07/20/%d0%bf%d1%80%d0%b8%d0%b2%d0%b5%d1%82-%d0%bc%d0%b8%d1%80/#respond">Отменить ответ</a></small></h3>				<form action="http://wpmoney.kek/wp-comments-post.php" method="post" id="commentform" class="comment-form" novalidate>
+					<p class="comment-notes"><span id="email-notes">Ваш e-mail не будет опубликован.</span> Обязательные поля помечены <span class="required">*</span></p><p class="comment-form-comment"><label for="comment">Комментарий</label> <textarea id="comment" name="comment" cols="45" rows="8" maxlength="65525" aria-required="true" required="required"></textarea></p><p class="comment-form-author"><label for="author">Имя <span class="required">*</span></label> <input id="author" name="author" type="text" value="" size="30" maxlength="245" aria-required='true' required='required' /></p>
+<p class="comment-form-email"><label for="email">E-mail <span class="required">*</span></label> <input id="email" name="email" type="email" value="" size="30" maxlength="100" aria-describedby="email-notes" aria-required='true' required='required' /></p>
+<p class="comment-form-url"><label for="url">Сайт</label> <input id="url" name="url" type="url" value="" size="30" maxlength="200" /></p>
+<p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Отправить комментарий" /> <input type='hidden' name='comment_post_ID' value='1' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='1' />
+</p>				</form>
+					</div><!-- #respond -->
+		
+</div><!-- #comments .comments-area -->
+				</article>
+			
+		
+															</div>
+	</div>
+
+
+			<div id="back-to-top">
+				<a href="#top">Наверх</a>
+			</div> <!-- back-to-top -->
+
+		</section>
+
+		
+		<section id="footer" class="footer-site invert">
+						<div class="container content clearfix">
+				
+														<div class="grid">
+																			<div class="column span-3 ">
+								
+			<div id="layers-widget-map-5" class="widget layers-contact-widget clearfix content-vertical-massive layers-contact-widget   " >
+
+				
+									<div class="container clearfix">
+												<div class="section-title clearfix medium text-center ">
+															<h3 class="heading">
+									Address								</h3>
+																				</div>
+					</div>
+				
+								<div class="row container ">
+											<div class="column span-12 form content">
+															<address class="copy">
+									<p><p>1600 Amphitheatre Pkwy, Mountain View, CA 94043, США</p></p>
+								</address>
+																						telephone: none;													</div>
+											
+									</div>
+
+				<style type="text/css"> /* INLINE WIDGET CSS */
+				#layers-widget-map-5 { background-repeat: no-repeat;background-position: center;}
+				</style>
+			</div>
+
+										</div>
+													<div class="column span-3 ">
+								
+			<div id="layers-widget-map-6" class="widget layers-contact-widget clearfix content-vertical-massive layers-contact-widget   " >
+
+				
+									<div class="container clearfix">
+												<div class="section-title clearfix medium text-center ">
+															<h3 class="heading">
+									E-mail								</h3>
+																				</div>
+					</div>
+				
+								<div class="row container ">
+											<div class="column span-12 form content">
+															<address class="copy">
+									<p><p>google@gmail.com</p></p>
+								</address>
+																				</div>
+											
+									</div>
+
+				<style type="text/css"> /* INLINE WIDGET CSS */
+				#layers-widget-map-6 { background-repeat: no-repeat;background-position: center;}
+				</style>
+			</div>
+
+										</div>
+													<div class="column span-3 ">
+								
+			<div id="layers-widget-map-7" class="widget layers-contact-widget clearfix content-vertical-massive layers-contact-widget   " >
+
+				
+									<div class="container clearfix">
+												<div class="section-title clearfix medium text-center ">
+															<h3 class="heading">
+									Telephone								</h3>
+																				</div>
+					</div>
+				
+								<div class="row container ">
+											<div class="column span-12 form content">
+															<address class="copy">
+									<p><p>+1 650-253-0000</p></p>
+								</address>
+																				</div>
+											
+									</div>
+
+				<style type="text/css"> /* INLINE WIDGET CSS */
+				#layers-widget-map-7 { background-repeat: no-repeat;background-position: center;}
+				</style>
+			</div>
+
+										</div>
+													<div class="column span-3 last">
+								<aside id="nav_menu-2" class="widget widget_nav_menu"><h5 class="section-nav-title">Share with love</h5><div class="menu-social-networks-container"><ul id="menu-social-networks" class="menu"><li id="menu-item-130" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-130"><a href="http://facebook.com"><i class="fa fa-facebook-official"></i></a></li>
+</ul></div></aside>							</div>
+											</div>
+									
+								<div class="grid copyright">
+											<div class="column span-6">
+							<p class="site-text"> Made at the tip of Africa. &copy;</p>
+						</div>
+										<div class="column span-6 clearfix t-right">
+											</div>
+				</div>
+							</div>
+			
+							<a class="created-using-layers" target="_blank" tooltip="Built with Layers" href="http://www.layerswp.com"><span>Built with Layers</span></a>					</section><!-- END / FOOTER -->
+		
+	</div><!-- END / MAIN SITE #wrapper -->
+		<link rel='stylesheet' id='layers-custom-styles-css'  href='http://wpmoney.kek/wp-content/themes/layerswp/assets/css/custom.css?ver=4.5.3' type='text/css' media='all' />
+<style id='layers-custom-styles-inline-css' type='text/css'>
+@import "http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css"
+
+#layers-widget-slide-3-128 .copy-container{
+background: rgba(0, 158, 236, 0.8);
+padding: 70px 0px 70px;
+margin-top: 0px;
+}
+.swiper-slide .copy-container, .swiper-slide .image-container {
+    width: 160%;
+    position: relative;
+}
+#layers-widget-slide-3-128 .section-title .excerpt{
+color: rgba(0,0,0,0.9)
+}
+.header-site .container, .header-site > .header-block {
+width: 100%;
+border-bottom: 1px solid rgba(255,255,255,0.7);
+border-left: 1px solid rgba(255,255,255,0.7);
+border-right: 1px solid rgba(255,255,255,0.7);
+    background-color: rgba(0, 158, 236, 0.5);
+}
+.header-site.invert .nav-horizontal > ul > li > a:hover {
+    color: rgba(255, 255, 255, 1);
+}
+.nav:hover .menu-item:not(:hover){
+-webkit-filter: blur(5px);
+}
+.menu-item{
+transition: 0.2s;
+border-left: 1px solid rgba(255,255,255,0.7);
+margin-bottom: 20px;
+}
+#layers-widget-slide-3-128 .section-title .heading{
+color: white;
+}
+#layers-widget-slide-3-128 .section-title .excerpt {
+    color: rgba(255,255,255,1);
+}
+#layers-widget-slide-3-128{
+background-attachment: fixed;
+}
+.wpcf7{
+border: 2px solid #ececec;
+background: #effdff;
+padding: 10px 10px;
+}
+div.wpcf7{
+padding: 10px;
+}
+</style>
+<script type='text/javascript' src='http://wpmoney.kek/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/wpmoney.kek\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","recaptchaEmpty":"\u041f\u043e\u0436\u0430\u043b\u0443\u0439\u0441\u0442\u0430 \u043f\u043e\u0434\u0442\u0432\u0435\u0440\u0434\u0438\u0442\u0435, \u0447\u0442\u043e \u0412\u044b - \u043d\u0435 \u0440\u043e\u0431\u043e\u0442.","sending":"\u041e\u0442\u043f\u0440\u0430\u0432\u043a\u0430..."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://wpmoney.kek/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.4.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var layers_script_settings = {"header_sticky_breakpoint":"270"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://wpmoney.kek/wp-content/themes/layerswp/assets/js/layers.framework.js?ver=1.5.5'></script>
+<script type='text/javascript' src='http://wpmoney.kek/wp-includes/js/comment-reply.min.js?ver=4.5.3'></script>
+<script type='text/javascript' src='http://wpmoney.kek/wp-includes/js/wp-embed.min.js?ver=4.5.3'></script>
+<script type='text/javascript' src='//maps.googleapis.com/maps/api/js?key&#038;ver=4.5.3'></script>
+<script type='text/javascript' src='http://wpmoney.kek/wp-content/themes/layerswp/core/widgets/js/maps.js?ver=1.5.5'></script>
+</body>
+</html>
